@@ -1,0 +1,28 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikaskashyap/git-fullstack.git"
+  },
+  "keywords": [
+    "Test",
+    "page"
+  ],
+  "author": "Vikas Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikaskashyap/git-fullstack/issues"
+  },
+  "homepage": "https://github.com/vikaskashyap/git-fullstack#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
